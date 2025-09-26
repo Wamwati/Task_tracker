@@ -1,2 +1,3 @@
-#Task Tracker
-##App to track tasks!
+# Task Tracker
+## An App to track tasks
+### Basic Readme
